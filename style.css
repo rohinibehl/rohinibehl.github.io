@@ -24,6 +24,7 @@
       }
       #footer {
         background-color: black;
+        height:auto;
       }
 
       /* Lastly, apply responsive CSS fixes as necessary */
