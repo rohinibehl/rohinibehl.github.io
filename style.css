@@ -78,7 +78,7 @@
       background-color:black;
       margin-left:20px;
       margin-right:20px;
-      margin-top:70px;
+      margin-top:90px;
       }
       td { 
     border: 1px solid white;
@@ -87,6 +87,26 @@
     width: 50%;
     padding-left:15px;
     padding-right:15px;
+
+  }
+    .rightcell {
+      height:100px;
+      width:50%;
+      padding-left:40px;
+      padding-right:40px;
+      text-align: center;
+padding-top:50px;
+    padding-bottom:50px;
+
+    }
+    .leftcell {
+      height:100px;
+      width:50%;
+      padding-left:15px;
+      padding-right:15px;
+      padding-top:50px;
+    padding-bottom:50px;
+    }
 }
  
  #wrapper {
