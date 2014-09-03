@@ -9,13 +9,12 @@
       }
 
       /* Wrapper for page content to push down footer */
-  /*     #wrap {
+       #wrap {
         min-height: 100%;
         height: auto !important;
         height: 100%;
-        Negative indent footer by it's height
         margin: 0 auto -60px;
-      } */
+      } 
 
       /* Set the fixed height of the footer here */
       #push,
@@ -86,7 +85,7 @@
     padding-right:15px;
 }
  
- #wrap {
+ #wrapper {
  background-color: black;
  margin-top:90px;
  margin-bottom:90px;
