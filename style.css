@@ -78,18 +78,17 @@
       background-color:black;
       margin-left:20px;
       margin-right:20px;
-      margin-top:90px;
+      margin-top:120px;
       }
       td { 
-    border: 1px solid white;
     border-spacing: 0;
     height: 100px;
     width: 50%;
-    padding-left:15px;
-    padding-right:15px;
 
   }
-    .rightcell {
+    #rightcell {
+
+    border-spacing: 0;
       height:100px;
       width:50%;
       padding-left:40px;
@@ -99,7 +98,9 @@ padding-top:50px;
     padding-bottom:50px;
 
     }
-    .leftcell {
+    #leftcell {
+
+    border-spacing: 0;
       height:100px;
       width:50%;
       padding-left:15px;
