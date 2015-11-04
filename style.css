@@ -10,7 +10,6 @@
 
       /* Wrapper for page content to push down footer */
        #wrap {
-  /*      background-color:black;*/
         min-height: 100%;
         height: auto !important;
         height: 100%;
@@ -80,11 +79,25 @@
       margin-top:120px;
       margin-bottom: :120px;
       }
-      td { 
+       #table-projects {
+      background-color:black;
+      margin-left:20px;
+      margin-right:20px;
+      margin-top:70px;
+      }
+      .td { 
     border-spacing: 0;
     height: 100px;
     width: 50%;
 
+  }
+  .td-proj { 
+    border: 1px solid white;
+    border-spacing: 0;
+    height: 100px;
+    width: 50%;
+    padding-left:15px;
+    padding-right:15px;
   }
     #rightcell {
 
@@ -110,13 +123,7 @@ padding-top:70px;
     }
 }
  
- #wrapper {
- background-color: black;
- margin-top:90px;
- margin-bottom:90px;
- margin-right:auto;
- margin-left:auto;
- }
+
     .clear {
       clear:both;
     }
